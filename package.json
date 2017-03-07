@@ -20,6 +20,12 @@
     "url": "https://github.com/vital-software/postcss-rgb-to-rgba/issues"
   },
   "homepage": "https://github.com/vital-software/postcss-rgb-to-rgba",
+  "engines": {
+    "node": ">=7"
+  },
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "lint": "eslint index.js --quiet --fix",
     "test": "jest"
