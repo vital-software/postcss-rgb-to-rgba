@@ -4,12 +4,14 @@
 ```css
 .button {
   color: rgba(rgb(106, 119, 138), 0.8);
+  background-color: rgba(rgb(55, 0, 203), 0.8);
 }
 ```
 
 ```css
 .button {
   color: rgba(106, 119, 138, 0.8);
+  background-color: rgba(55, 0, 203, 0.8);
 }
 ```
 
