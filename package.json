@@ -1,0 +1,37 @@
+{
+  "name": "postcss-rgb-to-rgba",
+  "version": "0.9.0",
+  "description": "PostCSS plugin that can convert rgb() colors to rgba()",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "rgb",
+    "rgba"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vital-software/postcss-rgb-to-rgba.git"
+  },
+  "author": "Te Riu Warren <teriu@teriu.name>",
+  "bugs": {
+    "url": "https://github.com/vital-software/postcss-rgb-to-rgba/issues"
+  },
+  "homepage": "https://github.com/vital-software/postcss-rgb-to-rgba",
+  "scripts": {
+    "lint": "eslint index.js --quiet --fix",
+    "test": "jest"
+  },
+  "dependencies": {
+    "postcss": "^5.2.16"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-plugin-babel": "^4.1.1",
+    "eslint-plugin-filenames": "^1.1.0",
+    "eslint-plugin-jest": "^19.0.1",
+    "jest": "^19.0.2"
+  }
+}

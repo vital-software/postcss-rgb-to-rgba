@@ -1,0 +1,8 @@
+.button {
+    color: rgba(rgb(102,250,138),0.8);
+    background-color: rgba(rgb(5,10,103), 0.8);
+}
+.button2 {
+    color: rgba(rgb(102,250,138),1);
+    background-color: rgba(rgb(5,10,103), 1);
+}
