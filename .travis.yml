@@ -1,4 +1,8 @@
 sudo: false
 language: node_js
 node_js:
-  - "7"
+- '7'
+notifications:
+  email: false
+  slack:
+    secure: wn+oECeXmC/AoV4/ZDIHiHAP9QTTSl9QBhy5K4OLO116ViisgN3fiPoUm8wJgH7UXvw+Q8Hi8Gbm/1sr8obelFGB0T+hpN8stlbQQQ27xsYPp8zVTmh3/qi33itz0I9hoFhvH5JOpywWOuhC+G57qknVPMJQrWqVaUGC8IoMlD0VhjgVfhkS0rLq8ur0/5p+Ts+ZFPzgtf78AWb1vQYgGY5DGtR7AQrNSmUfr0aL1cTTZLnG9ukUGFZFzC/kAOTyxll0b5875yCBSFhIewHQ3TvwlKsbKOkmh4s0BxxewaAdF58Q//ide86BWy8nebHHutHqxezMBBZI02bWZbnm+AJ3MPr9PwDGNiFQUniAK7Z7MKoqGOQs2XoHpDVCgP+pZ6TBbT+1YSSsKa829V/wqpEdDGqKzWQ2njDaBdLb40eHZege35fs2kFZy4tecyAeUSvC4MFgDzNUKTjAVzp7dXtzh4ixuJR3CVv8zy+0UhtWbT6ihTxEpH4iwCxG5fBkloZdtQhmBo+lduaCtk9+8jpG3yF9rdX7zLGOIYJxcSE436dV2L7CfpktKNnX3Ycwi188FOSq5MPg7d1PtLA50YySj6Dc50f3+YjcyRsW/SsHFRp4StMWWtKkxVSvjrLUKFm42L0jTyl5q23OJoifPkuK6TBTvOiN18nqtTR0/X8=
